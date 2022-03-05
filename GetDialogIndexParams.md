@@ -1,3 +1,4 @@
+```
 GetDialogIndexParams(dialogid, index, params[])
 {
 	for(dialogid = 0; dialogid < index; dialogid++)
@@ -9,3 +10,4 @@ GetDialogIndexParams(dialogid, index, params[])
 	}
 	return dialogid;
 }
+```
