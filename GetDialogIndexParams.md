@@ -1,3 +1,5 @@
+**İşlevi kısaca dialog indeks parametlerini almaya yarar.**
+
 ```
 GetDialogIndexParams(dialogid, index, params[])
 {
