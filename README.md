@@ -7,3 +7,4 @@ SA-MP Geliştirici Topluluğu için oluşturmuş olduğum bir git klasörüdür.
 **İçinde bulunanlar;**
 
 - GetDialogIndexParams
+- PlayerName
